@@ -1,0 +1,5 @@
+com/shop/order_service/controller/OrderController.class
+com/shop/order_service/OrderServiceApplication.class
+com/shop/order_service/repository/OrderRepository.class
+com/shop/order_service/service/OrderProducer.class
+com/shop/order_service/model/Order.class
